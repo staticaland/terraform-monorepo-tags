@@ -1,5 +1,6 @@
 {
   "release-type": "terraform-module",
+  "separate-pull-requests": true,
   "packages": {
     "modules/rocket": {},
     "modules/mushroom": {}
