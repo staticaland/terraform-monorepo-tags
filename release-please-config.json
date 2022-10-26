@@ -1,7 +1,6 @@
 {
   "release-type": "terraform",
   "packages": {
-    "modules/rocket": {},
-    "modules/mushroom": {}
+    "modules/rocket": {}
   }
 }
