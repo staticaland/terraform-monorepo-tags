@@ -9,6 +9,6 @@ jobs:
     steps:
       - uses: google-github-actions/release-please-action@v3
         with:
-          release-type: terraform
           command: manifest
+          release-type: terraform
           monorepo-tags: true
