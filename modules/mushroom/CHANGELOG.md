@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.3.0](https://github.com/staticaland/please-release-this/compare/mushroom-v0.2.0...mushroom-v0.3.0) (2022-10-26)
+
+
+### Features
+
+* nice mushroom ([8350340](https://github.com/staticaland/please-release-this/commit/8350340b72c504c5d426b5687e9ceaff17dc86b9))
+
 ## [0.2.0](https://github.com/staticaland/please-release-this/compare/mushroom-v0.1.0...mushroom-v0.2.0) (2022-10-26)
 
 
