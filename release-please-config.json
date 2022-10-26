@@ -1,5 +1,4 @@
 {
-  "release-type": "terraform",
   "packages": {
     "modules/rocket": {}
   }
