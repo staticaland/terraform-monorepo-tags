@@ -1,0 +1,7 @@
+{
+  "separate-pull-requests": true,
+  "packages": {
+    "modules/rocket": {},
+    "modules/mushroom": {},
+  }
+}
