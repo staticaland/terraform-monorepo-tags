@@ -2,7 +2,11 @@
   "release-type": "terraform-module",
   "separate-pull-requests": true,
   "packages": {
-    "modules/rocket": {},
-    "modules/mushroom": {}
+    "modules/rocket": {
+        "component": "rocket"
+    },
+    "modules/mushroom": {
+        "component": "mushroom"
+    }
   }
 }
