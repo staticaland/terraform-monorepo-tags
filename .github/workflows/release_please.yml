@@ -4,6 +4,7 @@ on:
       - main
     paths:
       - "modules/**"
+      - ".release-please-manifest.json"
 name: release-please
 jobs:
   release-please:
