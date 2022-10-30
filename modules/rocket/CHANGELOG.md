@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.2.1](https://github.com/staticaland/terraform-monorepo-tags/compare/rocket-v0.2.0...rocket-v0.2.1) (2022-10-30)
+
+
+### Bug Fixes
+
+* Some kind of fix ([e38f8b2](https://github.com/staticaland/terraform-monorepo-tags/commit/e38f8b297d0686c6d41fa32102212219ed44f73c))
+
 ## [0.2.0](https://github.com/staticaland/please-release-this/compare/rocket-v0.1.0...rocket-v0.2.0) (2022-10-26)
 
 

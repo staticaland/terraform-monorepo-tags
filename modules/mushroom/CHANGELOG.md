@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.4.0](https://github.com/staticaland/terraform-monorepo-tags/compare/mushroom-v0.3.0...mushroom-v0.4.0) (2022-10-30)
+
+
+### Features
+
+* LFG ([acfd5b5](https://github.com/staticaland/terraform-monorepo-tags/commit/acfd5b5db405d5fb8a1d3b9d52ed521aa7970168))
+
 ## [0.3.0](https://github.com/staticaland/please-release-this/compare/mushroom-v0.2.0...mushroom-v0.3.0) (2022-10-26)
 
 
